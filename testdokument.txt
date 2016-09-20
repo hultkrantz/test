@@ -1,4 +1,6 @@
 ﻿Text som ska laddas upp.
 
 
-Ändring som ska kolnas till lokal en andra gång.
+
+Ändring som ska kolnas till lokal en gång till.
+
