@@ -1,6 +1,6 @@
-﻿Text som ska laddas upp.
-
+﻿Text som ska laddas upp till en ny branch.
+1245687
 
 
 Ändring som ska kolnas till lokal en gång till.
-
+....monster
