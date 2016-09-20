@@ -1,1 +1,4 @@
 Text som ska laddas upp.
+
+
+Ändring som ska kolnas till lokal.
